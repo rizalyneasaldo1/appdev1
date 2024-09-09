@@ -1,0 +1,29 @@
+Asaldo, Rizalyne C.
+BS in Information System 3
+Assignment: Exploring Emerging Technologies
+
+1. Artificial Intelligent
+Purpose: ArtificiaI Intelligent purpose is to provide a human-like interaction with the user wherein the software use language to form abstraction and concepts. Solve kinds of problems that is reserved for human and personalize the inputs and outputs. AI also helps in automating process and provide intelligent insights to enhance the decision making process. 
+Usage: In Education, creating adaptive learning platforms for students and it adjust content based on a student's learning pace. In IT, it is used for the automation for IT operations.
+Examples:  ChatGPT is an AI tool to adapt educational content to the needs of individual students. 
+
+2. Augmented Reality
+Purpose: Augmented Reality purpose is an interactive experience that deliver the sensory information to enhance a real world with the use of computer generated perceptual information.
+Usage: In Education, AR devices use for student to experience a real situation such as military personel to virtually perform task training in US Airforces in a safer flying experience. In IT, AR is applied in software development in designing user interface and in remote support to assist technicians through interactive overlays.
+Examples: Microsoft HoloLens uses multiple sensors, advanced optics, and holographic processing that melds seamlessly with its environment that guides field workers through complex tasks with digital overlays.
+
+3. Virtual Reality
+Purpose: Virtual reality purpose is to immerse the users a full environmental feels like they are in real word with the use of technologies.
+Usage: In Education, Virtual Reality used to recreate historical events to fully learn through experiences. In IT, Virtual Reality use for software development for prototyping, design visualization, and in training scenarios for complex systems.
+Examples: ClassVR VR-based educational content and experiences for students, such as exploring historical sites or scientific concepts.
+
+4. Blockchain
+Purpose: Blockchain purpose is to facilitate the verification and traceability of multistep transactions that require verification and traceability. 
+Usage: In Education, Blockchain is used for securing and verifying academic credentials, record and certificates while in IT, is is used for securing transactions and enhancing integrity.
+Example: Learning Machine uses blockchain to issue and verify digital diplomas and certificates.
+
+5. Internet of Things
+Purpose: Internet of Things purpose is to connect any physical devices in the internet to communicate and exchange datas in real time.
+Usage: In Education, it use to interactive connect anyone in the smart classroom with the use of smart whiteboards. In IT, it is use to monitor and manage connectivity of devices.
+Example: Classroom IoT solutions use smart sensors to manage classroom environments, such as controlling lighting and temperature based on occupancy.
+
