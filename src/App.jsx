@@ -1,16 +1,33 @@
-import './App.css'
-import AdminPannel from './AdminPanel';
-import LoginForm from './LoginForm';
+import React from 'react';
 
-function App() {
-  let isLoggedIn = true;
+const products = [
+  { title: 'Cabbage', isFruit: false, id: 1 },
+  { title: 'Garlic', isFruit: false, id: 2 },
+  { title: 'Apple', isFruit: true, id: 3 },
+];
+
+function ShoppingList() {
+  const listItems = products.map(product => (
+    <li
+      key={product.id}
+      style={{
+        color: product.isFruit ? 'magenta' : 'darkgreen'
+      }}
+    >
+      {product.title}
+    </li>
+  ));
 
   return (
-    <>
-      <h1>Welcome to my apps</h1>
-      {isLoggedIn && <AdminPannel />}
-    </>
-  )
+    <ul>{listItems}</ul>
+  );
 }
 
-export default App
+export default function App() {
+  return (
+    <div>
+      <h1>My Shopping List</h1>
+      <ShoppingList />
+    </div>
+  );
+}
