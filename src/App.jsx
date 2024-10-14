@@ -1,25 +1,18 @@
-import { useState } from 'react';
+// App.jsx
+import React, { useState } from 'react';
 
-export default function MyApp() {
+const App = () => {
+  const [count, setCount] = useState(0); // Declare a state variable 'count' initialized to 0
+
   return (
     <div>
-      <h1>Counters that update separately</h1>
-      <MyButton />
-      <MyButton />
+      <h1>Counter App</h1>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>Increment</button>
+      <button onClick={() => setCount(count - 1)}>Decrement</button>
+      <button onClick={() => setCount(0)}>Reset</button>
     </div>
   );
-}
+};
 
-function MyButton() {
-  const [count, setCount] = useState(0);
-
-  const handleClick = () => {
-    setCount(count + 1);
-  };
-
-  return (
-    <button onClick={handleClick}>
-      Clicked {count} times
-    </button>
-  );
-}
+export default App;
