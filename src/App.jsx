@@ -1,10 +1,17 @@
-import MyButton from "./MyButton"
+function AboutPage() {
+  return (
+    <>
+    <h1>About</h1>
+    <p>Hello there.<br />How do you do?</p>
+  </>
+  )
+}
 
 function App() {
   return (
     <>
       <h1>Welcome to my apps</h1>
-      <MyButton />
+      <AboutPage />
     </>
   )
 }
