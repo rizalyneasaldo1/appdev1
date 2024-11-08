@@ -1,0 +1,16 @@
+Asaldo, Rizalyne C. (BSIS3)
+Assignment no. 7
+
+Case Study
+Managing a Challenging Cross-Department Collaboration
+
+As a software manager, I oversee a development team that handles various projects. Recently, another department approached me with a request for a joint effort. They were seeking help from our software engineers to support their team in the Research and Development (R&D) department, as they were facing tight deadlines. The challenge was clear: the R&D department needed assistance to meet their target dates, and we had to step in and assist, despite the fact that there was a significant learning curve involved.
+
+Although the schedule was already very tight, we decided to lend our support to help them meet their goals. Despite the initial challenges, the collaboration showed promising progress. However, as we were nearing the end of the project and approaching the target deadline, one of my developers faced a personal family crisis, which unfortunately disrupted our progress and further jeopardised our ability to meet the deadline.
+
+1. AS A MANAGER. It is important to prioritize the employee's well being and create an environemnt where in employees feel comfortable discussing personal issues and feel supported. This acknowledgement can lead to a clear communication to assess the scope of personal crisis and know the level of impact on the project. If possible adjusting the deadline can be consider to make it feasible. Realloacting the task can also be an option to keep on track on the project deadline. Communicating transparently to the client can help manage the expectation and gain trust, also it also includes reassuring to the client about the steps taken. Lastly, monitoring the progress after the steps taken is a must to ensure meeting the targeted deadlines. 
+
+2. AS A DEVELOPER. Task can be too overwhelming if there is a personal crisis, it will cause poor quality works. In this situation, as soon as possible I will communicate to the project manager regarding to my personal crisis to get some help and advices. It can be adjustment on the deadlines, prioritizing tasks that I can handle and reallocating to others in order to avoid the impact on the project. As a professional, it is appropriate to ask for a time to recover, and build an open communication. 
+
+3. WHAT COULD HAVE BEEN DONE BETTER? Based on the way of preventing the risk of both manager and developer, they are both help each other. While the manager provides an understanding on the part of the employee, the employee also needs to be professional. They both focus on active communication and good time management. This both sides adjustment may result on preventing further problem.
+
